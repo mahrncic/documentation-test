@@ -1,8 +1,8 @@
 {
   "index": "Introduction",
+  "infobip": "Infobip Demo page",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
-  "infobip": "Infobip Demo page",
   "about": {
     "title": "About",
     "type": "page"
